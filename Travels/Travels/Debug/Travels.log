@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Dipu Purecha\source\repos\Travels\Travels\Source.cpp(342,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dipu Purecha\source\repos\Travels\Travels\Source.cpp(346,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dipu Purecha\source\repos\Travels\Travels\Source.cpp(356,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dipu Purecha\source\repos\Travels\Travels\Source.cpp(364,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dipu Purecha\source\repos\Travels\Travels\Source.cpp(2151,13): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Dipu Purecha\source\repos\Travels\Travels\Source.cpp(2005,9): warning C4102: 'jaja': unreferenced label
+  Travels.vcxproj -> C:\Users\Dipu Purecha\source\repos\Travels\Debug\Travels.exe
